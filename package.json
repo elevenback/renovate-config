@@ -1,0 +1,13 @@
+{
+  "name": "@elevenback/renovate-config",
+  "version": "0.0.1",
+  "repository": "https://github.com/elevenback/renovate-config",
+  "author": "Takuma HANATANI <mail@potato4d.me>",
+  "license": "MIT",
+  "renovate-config": {
+    "schedule": "before 0am on Monday",
+    "patch": {
+      "groupName": "all dependencies"
+    }
+  }
+}

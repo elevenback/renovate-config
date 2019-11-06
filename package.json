@@ -5,12 +5,14 @@
   "author": "Takuma HANATANI <mail@potato4d.me>",
   "license": "MIT",
   "renovate-config": {
-    "extends": [
-      "config:base"
-    ],
-    "schedule": "before 0am on Monday",
-    "patch": {
-      "groupName": "all dependencies"
+    "default": {
+      "extends": [
+        "config:base"
+      ],
+      "schedule": "before 0am on Monday",
+      "patch": {
+        "groupName": "all dependencies"
+      }
     }
   }
 }

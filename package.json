@@ -16,6 +16,11 @@
       "patch": {
         "groupName": "all dependencies"
       }
+    },
+    "autoassign": {
+      "assignees": [
+        "potato4d"
+      ]
     }
   },
   "devDependencies": {

@@ -12,7 +12,7 @@
       "extends": [
         "config:base"
       ],
-      "schedule": "before 13am on Monday",
+      "schedule": "before 1pm on Monday",
       "patch": {
         "automerge": true,
         "groupName": "patch dependencies"
